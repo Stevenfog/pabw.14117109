@@ -1,0 +1,9 @@
+Jawaban Pertanyaan :
+1.saat melakukan perubahan kode HTML,pernah terjadi error,namun error yang dimaksud disini dikarenakan syntax kode yang salah,jadi pada saat ingin melihat hasil dari kode HTML yang dibuat tidak terjadi apa-apa pada browser saat di referesh.
+2.yang terjadi adalah,halaman browser yang dibuat sebelumnya akan melakukan direct pada laman google.co.id walaupun sebelumnya ada jeda waktu sekitar 5 detik.kegunaan meta dokumen adalah untuk menetapkan metadata yang menyediakan informasi tentang isi halaman web.
+3. fungsi tag 
+thead : thead (table head) untuk membuat bagian atas atau judul dari content pada table
+tbody : tbody(table body) untuk membuat bagian table yang akan diisi content pada table
+tr: adalah singkatan dari table row, digunakan untuk membuat baris dari tabel.
+th: mengisi tabel data ke kanan.
+
